@@ -103,4 +103,3 @@ Learn more in the Vite documentation:
 
 This project is **open-source** and free to use.
 
-```
